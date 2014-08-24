@@ -7,7 +7,7 @@ WebP wrapper component for the Windows Runtime. Compiled files only. Using VSIX 
 
 -Everything is awaitable!
 
--Decoding RGBA
+-Decoding BGRA
 
 -Converting from WebP to PNG and JPEG.
 
